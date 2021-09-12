@@ -5,4 +5,4 @@ A variety of Machine Learning Techniques have been implemented across the variou
 <br>
 Project consists of character recognition for Devanagari Script Alphabets using Support Vector Machines, acheiving an accuracy of 97.6%
 
-Course conducted at IIT Madras - Jul 2020 to Nov 2020
+Course conducted at IIT Madras - Jul 2020 to Nov 2020.
